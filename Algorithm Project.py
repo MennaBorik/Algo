@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[1]:
 
 
 def insertionSort(arr):
@@ -22,7 +19,7 @@ insertionSort(arr)
 print(arr)
 
 
-# In[10]:
+
 
 
 def mergeArrays(nums1, nums2, m, n):
@@ -60,11 +57,11 @@ m = len(nums1)
 
 nums2= [14, 16, 18, 20,22]
 n = len(nums2)
-#call function to merge sorted arrays
+
 mergeArrays(nums1, nums2, m, n)
 
 
-# In[11]:
+
 
 
 class Graph:
